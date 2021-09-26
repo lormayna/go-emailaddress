@@ -1,4 +1,4 @@
-module github.com/mcnijman/go-emailaddress
+module github.com/lormayna/go-emailaddress
 
 go 1.15
 
